@@ -31,3 +31,15 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-10-04 20:47:44.395
 !MESSAGE Indexed 'ex5' (19 sources, 78 headers) in 1.55 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-04 21:14:14.526
+!MESSAGE Indexed 'ex6' (19 sources, 78 headers) in 1.97 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-04 21:22:44.727
+!MESSAGE Indexed 'ex7' (19 sources, 78 headers) in 1.71 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-04 21:27:32.714
+!MESSAGE Indexed 'ex8' (19 sources, 78 headers) in 1.71 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-04 21:30:43.689
+!MESSAGE Indexed 'ex9' (19 sources, 78 headers) in 1.7 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
