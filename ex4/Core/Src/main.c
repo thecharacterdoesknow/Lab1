@@ -187,7 +187,6 @@ int main(void)
   while (1)
     {
       /* USER CODE END WHILE */
-  	  HAL_Delay(1000);
   	  if(count>=10) count = 0;
   	  if(count == 0){
   		  HAL_GPIO_WritePin(red1_GPIO_Port, red1_Pin, RESET);

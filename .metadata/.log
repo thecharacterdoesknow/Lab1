@@ -28,3 +28,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-10-04 20:27:39.437
 !MESSAGE Indexed 'ex4' (19 sources, 78 headers) in 1.72 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-04 20:47:44.395
+!MESSAGE Indexed 'ex5' (19 sources, 78 headers) in 1.55 sec: 3,647 declarations; 13,140 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
